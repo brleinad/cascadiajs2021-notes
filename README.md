@@ -36,3 +36,8 @@ https://www.compilersforhumans.com/
 hands-free coding with Gaze control in javascript
 https://github.com/charliegerard/gaze-detection
 no slides :( 
+
+
+
+![image](https://user-images.githubusercontent.com/12233785/140425112-9dcc7d60-e330-42d1-83cb-9ccd88615f48.png)
+
