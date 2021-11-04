@@ -5,18 +5,13 @@
 
 ## Presentations I liked:
 
-## [Responsive components: Present & Future](https://jdsteinbach.com/responsive-components/#/6)
+### [Responsive components: Present & Future](https://jdsteinbach.com/responsive-components/#/6)
 
 ### [So you think you know `window.open`](https://cascadiajs-window-open.netlify.app/act-i)
 
-
 ### [Let's go Fast! Creating a culture of frontend performance](https://speakerdeck.com/andrewhao/cascadiajs-2021-creating-a-culture-of-frontend-performance)
 
-
 ### [I need you to create with code](https://github.com/romellogoodman/library/blob/main/slides/I%20Need%20You%20to%20Create%20with%20Code.pdf)
-
-
-
 
 ### [The Fellowship of the Strings](https://www.betaorbust.com/presentations/The_Fellowship_of_the_String__Jacques_Favreau__CascadiaJS2021.pdf)
 Related resources:
@@ -25,10 +20,8 @@ Related resources:
 * https://egghead.io/blog/codemods-with-babel-plugins	
 * https://www.compilersforhumans.com/
 
-
 ### [hands-free coding with Gaze control in javascript](https://github.com/charliegerard/gaze-detection)
 no slides :( 
-
 
 ## Misc
 * New (for me) JS framework: [RedwoodJs](https://redwoodjs.com/)
