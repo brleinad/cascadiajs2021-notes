@@ -23,3 +23,16 @@ https://github.com/romellogoodman/library/blob/main/slides/I%20Need%20You%20to%2
 
 CryptoKitties
 https://www.cryptokitties.co/
+
+
+The Fellowship of the Strings
+https://www.betaorbust.com/presentations/The_Fellowship_of_the_String__Jacques_Favreau__CascadiaJS2021.pdf
+https://www.manning.com/books/the-mikado-method
+https://astexplorer.net/
+https://egghead.io/blog/codemods-with-babel-plugins	
+https://www.compilersforhumans.com/
+
+
+hands-free coding with Gaze control in javascript
+https://github.com/charliegerard/gaze-detection
+no slides :( 
