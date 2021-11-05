@@ -44,7 +44,7 @@ The "creative coding" field can go through the same transformation and needs you
 
 ## Presentations I liked on Day 2:
 
-### [hands-free coding with Gaze control in javascript](https://github.com/charliegerard/gaze-detection)
+### [hands-free coding with Gaze control in javascript](https://docs.google.com/presentation/d/1x9PKw_LRGUQQQjPcaUFPUZkZtdd-Sr4r8kkmzbIoiZs/edit#slide=id.p)
 https://youtu.be/ePDqanmVm1Y?t=2989
 
 **TL;DR:** Charlie built a JavaScript library using iris tracking to predict the direction of a user's gaze, 
@@ -54,8 +54,9 @@ Then she extended that idea into an Electron app, paired with a VScode extension
 ![demo](https://github.com/charliegerard/gaze-detection/blob/main/gaze-demo.gif)
 
 Related resources:
-* https://www.joshwcomeau.com/blog/hands-free-coding/
+* https://www.joshwcomeau.com/blog/hands-free-coding
 * https://charliegerard.dev/project/gaze-detection
+* https://github.com/charliegerard/gaze-detection
 
 ### [DX for Internal Teams](https://github.com/brleinad/cascadiajs2021-notes/files/7486557/DX_for_Internal_Teams_-_Ian_Sutherland_CascadiaJS_2021.pdf)
 https://youtu.be/ePDqanmVm1Y?t=9931
