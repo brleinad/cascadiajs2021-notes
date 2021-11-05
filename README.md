@@ -2,7 +2,7 @@
 
 | | |
 --|--
-Day 1 (does not work in Canada) | https://www.youtube.com/watch?v=vFhJceJffwE
+Day 1 (link doesn't work in Canada anymore) | https://www.youtube.com/watch?v=vFhJceJffwE
 Day 2 | https://www.youtube.com/watch?v=ePDqanmVm1Y
 
 ## Presentations I liked on Day 1:
@@ -17,7 +17,9 @@ we can look at the container size and make our layout adjustments according to t
 
 ### [So you think you know `window.open`](https://cascadiajs-window-open.netlify.app/act-i)
 
-**TL;DR:** You can do all sorts of things with `window.open` when your users use many tabs of your app.
+**TL;DR:** You can do all sorts of things with `window.open`. 
+For example when that your users use many tabs of your app. 
+You can have the browser refocus one of their already open tabs instead of opening a new tab.
 
 ### [Let's go Fast! Creating a culture of frontend performance](https://speakerdeck.com/andrewhao/cascadiajs-2021-creating-a-culture-of-frontend-performance)
 
@@ -45,24 +47,36 @@ The "creative coding" field can go through the same transformation and needs you
 ### [hands-free coding with Gaze control in javascript](https://github.com/charliegerard/gaze-detection)
 https://youtu.be/ePDqanmVm1Y?t=2989
 
-**TL;DR:**
+**TL;DR:** Charlie built a JavaScript library using iris tracking to predict the direction of a user's gaze, 
+to experiment with gaze-controlled interfaces. Built using TensorFlow.js
+Then she extended that idea into an Electron app, paired with a VScode extension for React to be able to code hands-free.
 
-### [DX_for_Internal_Teams](https://github.com/brleinad/cascadiajs2021-notes/files/7486557/DX_for_Internal_Teams_-_Ian_Sutherland_CascadiaJS_2021.pdf)
+![demo](https://github.com/charliegerard/gaze-detection/blob/main/gaze-demo.gif)
+
+Related resources:
+* https://www.joshwcomeau.com/blog/hands-free-coding/
+* https://charliegerard.dev/project/gaze-detection
+
+### [DX for Internal Teams](https://github.com/brleinad/cascadiajs2021-notes/files/7486557/DX_for_Internal_Teams_-_Ian_Sutherland_CascadiaJS_2021.pdf)
 https://youtu.be/ePDqanmVm1Y?t=9931
 
-**TL;DR:**
+**TL;DR:** Good Developer experience is important because productivity = happiness.
+Good DX it can be made up of different parts like: good docs, tooling, CIs, APIs, sandbox environments, CLIs, etc.
+Treat internal tools like production software.
 
 ### [The Fellowship of the Strings](https://www.betaorbust.com/presentations/The_Fellowship_of_the_String__Jacques_Favreau__CascadiaJS2021.pdf)
 * https://youtu.be/ePDqanmVm1Y?t=11273
 
-**TL;DR:**
+**TL;DR:**  The story of a big refactoring, of a function that sometimes failed without errors, at Netflix.
+They made sure to talk with all the teams who would be affected before changing any code (from devs to marketing).
+Then they used codemods to automate the refactoring and put in place ESlint rules so that devs would stop using 
+the deprecated function.
 
 Related resources:
 * https://www.manning.com/books/the-mikado-method
 * https://astexplorer.net/
 * https://egghead.io/blog/codemods-with-babel-plugins	
 * https://www.compilersforhumans.com/
-
 
 
 ## Misc
