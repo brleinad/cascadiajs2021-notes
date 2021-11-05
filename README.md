@@ -18,9 +18,10 @@ Related resources:
 * https://www.manning.com/books/the-mikado-method
 * https://astexplorer.net/
 * https://egghead.io/blog/codemods-with-babel-plugins	
+
 * https://www.compilersforhumans.com/
 
-### Developer Experience for Internal Teams
+### [DX_for_Internal_Teams_-_Ian_Sutherland_CascadiaJS_2021.pdf](https://github.com/brleinad/cascadiajs2021-notes/files/7486557/DX_for_Internal_Teams_-_Ian_Sutherland_CascadiaJS_2021.pdf)
 https://youtu.be/ePDqanmVm1Y?t=9931
 
 ### [hands-free coding with Gaze control in javascript](https://github.com/charliegerard/gaze-detection)
