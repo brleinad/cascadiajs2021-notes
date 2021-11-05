@@ -2,6 +2,10 @@
 
 
 
+Youtube links | -
+--|--
+* Day 1` (does not open in Canada) | https://www.youtube.com/watch?v=vFhJceJffwE
+* Day 2 | https://www.youtube.com/watch?v=ePDqanmVm1Y
 
 ## Presentations I liked:
 
@@ -15,6 +19,7 @@
 
 ### [The Fellowship of the Strings](https://www.betaorbust.com/presentations/The_Fellowship_of_the_String__Jacques_Favreau__CascadiaJS2021.pdf)
 Related resources:
+* https://youtu.be/ePDqanmVm1Y?t=11273
 * https://www.manning.com/books/the-mikado-method
 * https://astexplorer.net/
 * https://egghead.io/blog/codemods-with-babel-plugins	
