@@ -20,8 +20,11 @@ Related resources:
 * https://egghead.io/blog/codemods-with-babel-plugins	
 * https://www.compilersforhumans.com/
 
+### Developer Experience for Internal Teams
+https://youtu.be/ePDqanmVm1Y?t=9931
+
 ### [hands-free coding with Gaze control in javascript](https://github.com/charliegerard/gaze-detection)
-no slides :( 
+https://youtu.be/ePDqanmVm1Y?t=2989
 
 ## Misc
 * New (for me) JS framework: [RedwoodJs](https://redwoodjs.com/)
